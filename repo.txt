@@ -1,0 +1,7 @@
+bueno yo no tengo otra cosa 
+<<<<<<< HEAD
+que quiere que haga soy nuevo 
+seguimops agregando cosas
+=======
+tan nuevo no soy 
+>>>>>>> nueva-rama
